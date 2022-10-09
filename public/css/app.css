@@ -1,0 +1,22 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.breadcrumb{
+    background-color: transparent;
+    padding: 0;
+}
+
+.breadcrumb .active {
+    font-weight: bold;
+    color: black;
+}
+
+.breadcrumb a {
+    text-decoration: none;
+    color: black;
+}
+
+.btn-dark {
+    border-radius: 30px;
+}
